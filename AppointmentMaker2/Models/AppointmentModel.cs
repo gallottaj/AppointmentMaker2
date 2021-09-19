@@ -12,5 +12,6 @@ namespace AppointmentMaker2.Models
         public decimal PatientNetWorth { get; set; }
         public string DoctorName { get; set; }
         public int PainLevel { get; set; }
+
     }
 }
