@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentMaker2", "AppointmentMaker2\AppointmentMaker2.csproj", "{421A178B-5B67-4389-A767-1D9AC334BCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421A178B-5B67-4389-A767-1D9AC334BCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421A178B-5B67-4389-A767-1D9AC334BCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421A178B-5B67-4389-A767-1D9AC334BCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421A178B-5B67-4389-A767-1D9AC334BCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2ACCA2E-D069-4595-8EC0-E89845BB5D11}
+	EndGlobalSection
+EndGlobal
